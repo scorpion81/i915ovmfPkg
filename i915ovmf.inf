@@ -55,6 +55,7 @@
   MdeModulePkg/MdeModulePkg.dec
   OvmfPkg/OvmfPkg.dec
   Drivers/OptionRomPkg/OptionRomPkg.dec
+  UefiCpuPkg/UefiCpuPkg.dec
   i915ovmfPkg/i915ovmf.dec
 
 [LibraryClasses]
